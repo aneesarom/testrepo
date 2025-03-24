@@ -1,4 +1,4 @@
 if __name__ == "__main__":
-    if "name" == "name":
+    if "name_" == "name":
         print("ahjhj")
         
