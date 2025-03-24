@@ -1,2 +1,3 @@
 if __name__ == "__main__":
-    print("ahjhj")
+    if "name" == "name":
+        print("ahjhj")
