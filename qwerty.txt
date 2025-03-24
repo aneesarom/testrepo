@@ -1,2 +1,5 @@
 trying new
+<<<<<<< Updated upstream
+=======
 forever
+>>>>>>> Stashed changes
